@@ -1,7 +1,7 @@
 ### Hi there 👋, it's me, Rony Majumder
 I am  an undergraduate Software Engineering Student at the University of Dhaka.
 
-![Profile views](https://gpvc.arturio.dev/rony31416)  
+![](https://komarev.com/ghpvc/?username=rony31416&style=flat-square)
 
 - 🔭 I’m currently working on Topic modelling  
 - 🌱 I’m currently learning python 
